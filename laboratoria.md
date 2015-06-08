@@ -128,6 +128,6 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. [Miel](https://github.com/Whetold/ASIegz.git). [Extended Gaming Shop](http://agile-castle-5964.herokuapp.com/).
 1. [RailsEmpire](https://github.com/Undauted/EmpireSell.git). [EmpireSell](https://empire-sell.herokuapp.com/).
 1. [Miel](https://github.com/Whetold/ASIegz.git). [ExtendedGamingShop](http://my-asiprojekt.herokuapp.com/).
-19. [RedDragon](https://github.com/dgrzesiak/Ruby-on-Rails-egzamin). [RedDragonShop](https://enigmatic-meadow-6709.herokuapp.com/).
-[BOMADA](https://github.com/grabarzstg/asi-egzamin). [ToperzaKacikLiteracki](http://tkl.herokuapp.com/).
-[Pietrzykov](https://bitbucket.org/Mikoziq/tankstore).[TanksApp](https://warm-sands-3702.herokuapp.com/).
+1. [RedDragon](https://github.com/dgrzesiak/Ruby-on-Rails-egzamin).   [RedDragonShop](https://enigmatic-meadow-6709.herokuapp.com/).
+1. [BOMADA](https://github.com/grabarzstg/asi-egzamin). [ToperzaKacikLiteracki](http://tkl.herokuapp.com/).
+1. [Pietrzykov](https://bitbucket.org/Mikoziq/tankstore).[TanksApp](https://warm-sands-3702.herokuapp.com/).
