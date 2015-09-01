@@ -131,3 +131,4 @@ Dane należy wpisać **w jednym wierszu** w tym pliku według tego schematu:
 1. [RedDragon](https://github.com/dgrzesiak/Ruby-on-Rails-egzamin).   [RedDragonShop](https://enigmatic-meadow-6709.herokuapp.com/).
 1. [BOMADA](https://github.com/grabarzstg/asi-egzamin). [ToperzaKacikLiteracki](http://tkl.herokuapp.com/).
 1. [Pietrzykov](https://bitbucket.org/Mikoziq/tankstore).[TanksApp](https://warm-sands-3702.herokuapp.com/).
+1. [Rosiak](https://bitbucket.org/Lrosiak/pinboard).[PinBoard](https://pinboard-asi-application.herokuapp.com/) 
